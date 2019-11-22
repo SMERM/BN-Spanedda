@@ -1,2 +1,1 @@
-# BN-Spanedda
-Ciclo di Biennio: Luca Spanedda
+# Lezione di giovedì 21 novembre 2019\n\n## Argomenti
